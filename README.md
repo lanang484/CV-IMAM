@@ -1,1 +1,68 @@
 # CV-IMAM
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>CV Online - Siswa SMK</title>
+  
+</head>
+<body>
+  <style></style>
+<center>
+  <main class="container">
+     <div class="header">
+      <img src="wa.jpg" class="profile" alt="Foto Profil">
+      <h1>IMAM IBRAHIM ROSYID KALIMATULLAH</h1>
+      <p>Siswa SMK Jurusan RPL (Rekayasa Perangkat Lunak)</p>
+    </div>
+
+    <section>
+      <h2>Profil Singkat</h2>
+      <p>Saya adalah siswa SMK yang sedang mempelajari tentang pemograman web.</p>
+    </section>
+
+    <section>
+      <h2>Informasi Kontak</h2>
+      <ul>
+        <li><strong>Alamat:</strong>Bulan RT01,RW08 NGEMPLAK KARANGPANDAN</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Pendidikan</h2>
+      <ul>
+        <li>SMK Negeri 2 karanganyar - Jurusan RPL (2024 - 2027)</li>
+        <li>MTS AL-Huda 01 Karangpandan(2021 - 2024)</li>
+      </ul>
+    </section>
+     <section>
+      <h2>Hobi</h2>
+        <li>Sepak Bola</li>
+        <li>Main Game</li>
+    </section>
+  </main>
+<center>
+<div class="sosmed">
+  <a href="https://wa.me/628995260967" target="_blank" title="WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
+  </a>
+  <a href="https://instagram.com/anak_lanang_jawa" target="_blank" title="Instagram">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram">
+  </a>
+  <a href="https://tiktok.com/•anak_lanang•" target="_blank" title="TikTok">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok">
+  </a>
+  <a href="https://youtube.com/channel/BocahLanang" target="_blank" title="YouTube">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube">
+  </a>
+  <a href="https://lanang31.blogspot.com" target="_blank" class="blog-icon" title="Kunjungi Blog Saya">
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888870.png" alt="Blog Icon">
+</a>
+
+</div>
+
+</center>
+</center>
+</body>
+</html>
